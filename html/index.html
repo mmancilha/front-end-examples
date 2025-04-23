@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo HTML Semântico</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1><a href="#" class="logo">Meu Site Semântico</a></h1>
+            <nav class="site-nav">
+                <ul>
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#servicos">Serviços</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="site-main">
+        <div class="container">
+            <section id="sobre" class="section">
+                <h2>Sobre Nós</h2>
+                <p>Uma breve descrição sobre a empresa e seus valores.</p>
+                <article class="article">
+                    <h3>Nossa Missão</h3>
+                    <p>Entregar soluções inovadoras e de alta qualidade.</p>
+                </article>
+            </section>
+
+            <section id="servicos" class="section">
+                <h2>Nossos Serviços</h2>
+                <ul class="service-list">
+                    <li>Desenvolvimento Web</li>
+                    <li>Design Gráfico</li>
+                    <li>Marketing Digital</li>
+                </ul>
+            </section>
+
+            <section id="contato" class="section">
+                <h2>Contato</h2>
+                <form class="contact-form">
+                    <label for="nome">Nome:</label>
+                    <input type="text" id="nome" name="nome" required>
+
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+
+                    <label for="mensagem">Mensagem:</label>
+                    <textarea id="mensagem" name="mensagem" rows="4" required></textarea>
+
+                    <button type="submit" class="button">Enviar</button>
+                </form>
+            </section>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>&copy; 2025 Exemplo HTML (Impactos e Tendências no Software Moderno). Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
