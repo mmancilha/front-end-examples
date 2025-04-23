@@ -24,7 +24,7 @@ A seguir, uma breve descrição de cada exemplo de código:
 *   **`jquery/exemplo2.js`:** Demonstra a manipulação do DOM utilizando jQuery.
 *   **`react/exemplo3.jsx`:** Demonstra a criação de um componente React simples.
 *   **`vue/exemplo4.vue`:** Demonstra a criação de um componente Vue.js simples, utilizando data binding e diretivas.
-*   **`css-media-queries/exemplo5.css`:** Demonstra a utilização de media queries para criar um layout responsivo.
+*   **`css-media-queries/index.html` e `css-media-queries/style.css`:** Demonstra a utilização de media queries para criar um layout responsivo.
 
 ## Como Utilizar
 
