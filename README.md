@@ -18,12 +18,14 @@ O repositório está organizado da seguinte forma:
 
 ## Descrição dos Exemplos
 
+## Descrição dos Exemplos
+
 A seguir, uma breve descrição de cada exemplo de código:
 
 *   **`html-puro/exemplo1.html`:** Demonstra a estrutura básica de um documento HTML.
 *   **`jquery/exemplo2.js`:** Demonstra a manipulação do DOM utilizando jQuery.
 *   **`react/exemplo3.jsx`:** Demonstra a criação de um componente React simples.
-*   **`vue/exemplo4.vue`:** Demonstra a criação de um componente Vue.js simples, utilizando data binding e diretivas.
+*   **`vue/exemplo4.vue`:** Demonstra a criação de um componente Vue.js simples, utilizando data binding e diretivas. [Experimente no CodeSandbox](https://codesandbox.io/p/devbox/rv4sn3)
 *   **`css-media-queries/index.html` e `css-media-queries/style.css`:** Demonstra a utilização de media queries para criar um layout responsivo.
 
 ## Como Utilizar
